@@ -23,7 +23,8 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(91, 116, 103);
+  color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 .App-link {
